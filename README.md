@@ -1,5 +1,6 @@
 # 👩🏻‍💻 Desenvolvedora Full Stack
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F744D5&center=true&vCenter=true&width=435&lines=Bem-vindo(a)+ao+meu+perfil!%E2%9C%A8)](https://git.io/typing-svg)
 
 ### Oiii! Sou a Deiziane Rodrigues, uma desenvolvedora full stack apaixonada por programação e tecnologia!
 
