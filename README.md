@@ -1,20 +1,18 @@
-# 👩🏻‍💻 Desevoldora Full Stack
+# 👩🏻‍💻 Desenvolvedora Full Stack
 
 
+## Oiii! Sou a Deiziane Rodrigues, uma desenvolvedora full stack apaixonada por programação e tecnologia!
 
-Oiii! Eu sou a Deiziane Rodrigues, apaixonada por programação e tecnologia!
-
+#### Contatos
 
 <p align="left">
-  <a href="https://linkedin.com/in/deizianer/" target="_blank">
-    <img src="https://github.com/user-attachments/assets/bdba38d1-0a15-40a0-a53c-bbc168d69df4" width="37" height="32" alt="logo linkedin" style="border-radius: 50%;" />
+  <a href="https://linkedin.com/in/deizianer/" target="_blank style="text-decoration: none;">
+    <img src="https://github.com/user-attachments/assets/bdba38d1-0a15-40a0-a53c-bbc168d69df4" width="37" height="32" alt="logo linkedin"/>
   </a>
-  <a href="" target="_blank">
-    <img src="https://private-user-images.githubusercontent.com/136659324/389219903-a647eb82-47f1-4411-a66f-d9dfeaf072f4.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzgxNzM0MzgsIm5iZiI6MTczODE3MzEzOCwicGF0aCI6Ii8xMzY2NTkzMjQvMzg5MjE5OTAzLWE2NDdlYjgyLTQ3ZjEtNDQxMS1hNjZmLWQ5ZGZlYWYwNzJmNC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMTI5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDEyOVQxNzUyMThaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT01OTUzNDExMDBmM2QyOWU1ZjM4YjliYWVhMmUxNWI5NGFhMzVkNWIxOGI0NTJkZWY2NmQ4NWVhNjllMzE3YTIwJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.Z1ijDR8KFjKWgye78j4IPz2n0Ys6hBeThtqzcpjbI54" width="35" height="32" alt="logo gmail"/>
+  <a href="#" target="_blank">
+    <img src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" width="35" height="32" alt="logo gmail"/>
   </a>
 </p>
-
----
 
 ### 🤖 Linguagens e Tecnologias
 
@@ -129,14 +127,14 @@ Oiii! Eu sou a Deiziane Rodrigues, apaixonada por programação e tecnologia!
 <img 
     align="left" 
     alt="GitHub Stats"
-    height="200" 
+    height="150" 
     style="padding-right:10px;" 
     src="https://github-readme-stats.vercel.app/api?username=deizirrs&show_icons=true&theme=radical&rank_icon=github&include_all_commits=true&locale=pt-br" 
 />
 <img 
     align="left" 
     alt="GitHub Stats"
-    height="200" 
+    height="150" 
     style="padding-right:10px;" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=deizirrs&theme=radical&&layout=compact&custom_title=Tecnologias&langs_count=5" 
 />
