@@ -6,7 +6,7 @@
 #### Contatos
 
 <p align="left">
-  <a href="https://linkedin.com/in/deizianer/" target="_blank style="text-decoration: none;">
+  <a href="https://linkedin.com/in/deizianer/" target="_blank" rel="noopener noreferrer">
     <img src="https://github.com/user-attachments/assets/bdba38d1-0a15-40a0-a53c-bbc168d69df4" width="37" height="32" alt="logo linkedin"/>
   </a>
   <a href="#" target="_blank">
