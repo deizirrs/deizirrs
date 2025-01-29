@@ -1,18 +1,8 @@
 # 👩🏻‍💻 Desenvolvedora Full Stack
 
 
-## Oiii! Sou a Deiziane Rodrigues, uma desenvolvedora full stack apaixonada por programação e tecnologia!
+### Oiii! Sou a Deiziane Rodrigues, uma desenvolvedora full stack apaixonada por programação e tecnologia!
 
-#### Contatos
-
-<p align="left">
-  <a href="https://linkedin.com/in/deizianer/" target="_blank" rel="noopener noreferrer">
-    <img src="https://github.com/user-attachments/assets/bdba38d1-0a15-40a0-a53c-bbc168d69df4" width="37" height="32" alt="logo linkedin"/>
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" width="35" height="32" alt="logo gmail"/>
-  </a>
-</p>
 
 ### 🤖 Linguagens e Tecnologias
 
@@ -122,19 +112,19 @@
 <br/>
 <br/>
 
-### 📊 Estatísticas
+---
 
-<img 
-    align="left" 
-    alt="GitHub Stats"
-    height="150" 
-    style="padding-right:10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=deizirrs&show_icons=true&theme=radical&rank_icon=github&include_all_commits=true&locale=pt-br" 
-/>
-<img 
-    align="left" 
-    alt="GitHub Stats"
-    height="150" 
-    style="padding-right:10px;" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=deizirrs&theme=radical&&layout=compact&custom_title=Tecnologias&langs_count=5" 
-/>
+#### Contatos
+
+<p align="left">
+  <a href="https://linkedin.com/in/deizianer/" target="_blank" rel="noopener noreferrer">
+    <img src="https://github.com/user-attachments/assets/bdba38d1-0a15-40a0-a53c-bbc168d69df4" width="37" height="32" alt="logo linkedin"/>
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" width="35" height="32" alt="logo gmail"/>
+  </a>
+</p>
+
+<img src="https://raw.githubusercontent.com/Deizirrs/Deizirrs/output/snake.svg" alt="Snake animation" />
+
+###
