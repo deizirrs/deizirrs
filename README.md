@@ -1,9 +1,9 @@
-# 👩🏼‍💻 Desenvolvedora Full Stack
+### 👩🏼‍💻  Oiii! Eu sou a Deiziane Rodrigues, uma desenvolvedora apaixonada por programação e tecnologia!
+
+---
+**`Desenvolvedora Full Stack - Júnior`**
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F744D5&center=true&vCenter=true&width=435&lines=Bem-vindo(a)+ao+meu+perfil!%E2%9C%A8)](https://git.io/typing-svg)
-
-### Oiii! Sou a Deiziane Rodrigues, uma desenvolvedora full stack apaixonada por programação e tecnologia!
-
 
 ### 🤖 Linguagens e Tecnologias
 
@@ -101,14 +101,6 @@
     style="padding-right:10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" 
  />
-<img 
-    align="left" 
-    alt="Bash" 
-    title="Bash"
-    width="30px" 
-    style="padding-right:10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" 
-/>
 
 <br/>
 <br/>
@@ -117,13 +109,12 @@
 
 #### 💻 Contatos
 
-<p align="left">
-  <a href="https://linkedin.com/in/deizianer/" target="_blank" rel="noopener noreferrer">
-    <img src="https://github.com/user-attachments/assets/bdba38d1-0a15-40a0-a53c-bbc168d69df4" width="37" height="32" alt="logo linkedin"/>
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" width="35" height="32" alt="logo gmail"/>
-  </a>
-</p>
+<br clear="both">
 
-
+<div align="left">
+  <a href="https://www.linkedin.com/in/deizianer/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
+  </a>
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="discord logo"  />
+</div>
