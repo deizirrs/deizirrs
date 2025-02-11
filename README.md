@@ -6,20 +6,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F744D5&center=true&vCenter=true&width=435&lines=Bem-vindo(a)+ao+meu+perfil!%E2%9C%A8)](https://git.io/typing-svg)
 
 ###
-<div align="center">
-  <img height="200" src="https://i.imgur.com/WqX6UcF.png"  />
-</div>
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/deizianer/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="deizianerodriguesdev@hotmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
-  </a>
-</div>
-
-###
 
 </br>
 
@@ -76,6 +62,20 @@
   
  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Deizirrs&radius=16&theme=redical&area=true&order=5&hide_border=true&hide_title=false" height="300" alt="activity-graph graph"  />
 
+</div>
+
+###
+<div align="center">
+  <img height="200" src="https://i.imgur.com/WqX6UcF.png"  />
+</div>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/deizianer/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="deizianerodriguesdev@hotmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
+  </a>
 </div>
 
 ###
