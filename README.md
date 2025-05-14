@@ -7,6 +7,24 @@
 
 ###
 
+
+
+###
+<div align="center">
+  <img height="200" src="https://i.imgur.com/WqX6UcF.png"  />
+</div>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/deizianer/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="deizianerodriguesdev@hotmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
+  </a>
+</div>
+
+###
+
 </br>
 
 <h3 align="center">🤖 Linguagens e Tecnologias</h3>
@@ -61,19 +79,3 @@
   <img src="https://github-profile-trophy.vercel.app?username=Deizirrs&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
 
 </div>
-
-###
-<div align="center">
-  <img height="200" src="https://i.imgur.com/WqX6UcF.png"  />
-</div>
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/deizianer/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="deizianerodriguesdev@hotmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
-  </a>
-</div>
-
-###
