@@ -10,7 +10,7 @@
 ###
 
 <div>
-  <img align="left" alt="Octocat" src="https://i.imgur.com/WqX6UcF.png?raw=true" style="height:360px; padding-right:30px;" />
+  <img align="left" alt="Octocat" src="https://i.imgur.com/WqX6UcF.png?raw=true" style="height:260px; padding-right:30px;" />
 </div>
 
 <br>
